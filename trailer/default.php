@@ -1,12 +1,16 @@
 <?
-/*
- * Copyright (C) Ian M. Fink
- * All rights reserved.
- * This work is unpublished.
+/**
+ * @author		Ian M. Fink
  *
- * File: default.php
+ * @file		default.php
  *
- * default trailer
+ * @copyright	Copyright (C) Ian M. Fink.  All rights reserved.
+ *				This work is unpublished.
+ * 				A commercial license can be made available.
+ *
+ * Contact:		www.linkedin.com/in/ianfink
+ *
+ * Tabstop:		4
  *
  */
 
