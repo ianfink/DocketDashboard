@@ -3,8 +3,7 @@
  *
  * @file		assign_today.js
  *
- * @copyright	Copyright (C) Ian M. Fink.  All rights reserved.
- *				This work is unpublished.
+ * @copyright	Copyright (C) 2025 Ian M. Fink.  All rights reserved.
  * 				A commercial license can be made available.
  *
  * Contact:		www.linkedin.com/in/ianfink
