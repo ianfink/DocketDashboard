@@ -1,8 +1,16 @@
 <?
-/*
- * Copyright (C) Ian M. Fink.
- * All rights reserved.
- * This work is unpublished.
+/**
+ * @author		Ian M. Fink
+ *
+ * @file		matter_update.php
+ *
+ * @copyright	Copyright (C) 2025 Ian M. Fink.  All rights reserved.
+ * 				A commercial license can be made available.
+ *
+ * Contact:		www.linkedin.com/in/ianfink
+ *
+ * Tabstop:		4
+ * 
  */
 
 $dd_php_files = $_ENV['PHP_INCLUDE_PATH'];
@@ -109,4 +117,7 @@ $web_page->add_to_body("</CENTER>\n");
 $web_page->conclude_page();
 $web_page->write_page();
 
+/*
+ * End of file:	matter_update.php
+ */
 ?>
